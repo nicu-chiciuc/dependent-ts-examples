@@ -18,11 +18,13 @@
   },
   "homepage": "https://github.com/nicu-chiciuc/dependent-ts-examples#readme",
   "devDependencies": {
+    "dtslint": "^4.2.1",
     "eslint": "^8.3.0",
     "prettier": "^2.5.0",
     "typescript": "^4.5.2"
   },
   "dependencies": {
-    "dependent-ts": "0.0.3"
+    "dependent-ts": "0.0.3",
+    "ts-expect": "^1.3.0"
   }
 }
