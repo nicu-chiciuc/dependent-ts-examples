@@ -1,0 +1,28 @@
+{
+  "name": "dependent-ts-examples",
+  "version": "1.0.0",
+  "description": "Sample usage of dependent-ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicu-chiciuc/dependent-ts-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicu-chiciuc/dependent-ts-examples/issues"
+  },
+  "homepage": "https://github.com/nicu-chiciuc/dependent-ts-examples#readme",
+  "devDependencies": {
+    "eslint": "^8.3.0",
+    "prettier": "^2.5.0",
+    "typescript": "^4.5.2"
+  },
+  "dependencies": {
+    "dependent-ts": "0.0.3"
+  }
+}
